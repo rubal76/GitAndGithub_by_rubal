@@ -1,1 +1,16 @@
+Not a single project today will get away without some sort of version control with Git under the hood. 
+Knowing Git well helps you become a better developer, boost your developer’s workflow and truly improve the quality of your code base. 
+However, that requires going a little bit outside of the comfort zone that we are all familiar with. 
+As it turns out, there is a bit more to Git than just commit, push and pull.
+Some developers stay true to the main principles in Git, and often that’s absolutely understandable. 
+In the front-end world of ours, there are just so many sophisticated things to understand and get better at, that frankly Git is often not a high priority. 
+As a side effect, many of the valuable techniques that can boost a developer’s workflow remain unnoticed and rarely discovered.
 
+Tracks history
+Free and open source
+Supports non-linear development
+Creates backups
+Scalable
+Supports collaboration
+Branching is easier
+Distributed development
